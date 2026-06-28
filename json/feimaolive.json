@@ -1,16 +1,14 @@
 [
   {
-    "name": "福利",
-    "url": "./sjfl.txt"
+    "name": "直播转点播",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/barry818/myzy/refs/heads/main/zb.txt"
   },
-  
   {
-    "name": "央卫",
-    "url": "./央卫直播.txt"
+    "name": "直播m3u",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/barry818/myzy/refs/heads/main/dszb.m3u"
   },
-  
   {
-    "name": "myTV",
-    "url": "./myTV.txt"
+    "name": "DG接口",
+    "url": "http://1.94.31.214/live/live9/dgtv.txt"
   }
 ]
