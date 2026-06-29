@@ -409,7 +409,45 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/蜻蜓FM.js"
         },
-    
+    {
+      "key": "急救教学",
+      "name": "🚑急救｜教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+    {
+      "key": "商店",
+      "name": "🏬商店｜更新",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "oval",
+        "ratio": 1.1
+      },
+      "ext": "./json/market.json"
+    },
+	{
+      "key": "警示1",
+      "name": "#-#-#-#-#-#-#-#",
+      "type": 3,
+      "api": "",
+    },
+	{
+      "key": "警示2",
+      "name": "#-#-#-#-#-#-#-#",
+      "type": 3,
+      "api": "",
+    },
     {
       "key": "36直播",
       "name": "🔞36直播｜禁",
