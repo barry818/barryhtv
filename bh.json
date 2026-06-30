@@ -33,10 +33,10 @@
     },
     
 {
-      "key": "py_枫叶影院",
+      "key": "枫叶影视",
       "name": "💎枫叶｜采集",
       "type": 3,
-      "api": "./py/枫叶影院.py",
+      "api": "./py/枫叶影视.py",
       "searchable": 1,
      "filterable": 0,
      "changeable": 0
